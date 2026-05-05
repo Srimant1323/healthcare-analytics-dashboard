@@ -1,5 +1,5 @@
 # 🏥 Healthcare Analytics Dashboard — Excel
-![Dashboard Preview]()
+![Dashboard Preview](dashboard_preview.png)
 
 > A clinical monitoring and operational analytics dashboard built entirely in Microsoft Excel,
 > analysing **200 patient records** across diagnoses, wards, doctors, and outcomes for the year 2024.
